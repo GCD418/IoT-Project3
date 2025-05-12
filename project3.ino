@@ -12,7 +12,7 @@
 const char* WIFI_SSID = "RedG";
 const char* WIFI_PASS = "pequebambino";
 
-const char* MQTT_BROKER = "a13ek52zllxy0k-ats.iot.us-east-1.amazonaws.com";
+const char* MQTT_BROKER = "a3s1ex49y0ajjl-ats.iot.us-east-1.amazonaws.com";
 const int MQTT_PORT = 8883;
 const char* CLIENT_ID = "ESP-32";
 const char* UPDATE_TOPIC = "$aws/things/iot_thing/shadow/update";
